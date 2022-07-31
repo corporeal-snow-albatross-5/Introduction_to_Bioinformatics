@@ -14,8 +14,8 @@ o	Lesson 5: https://youtu.be/QAxnGJEZ2_M
 - Unix_practice, Unicorn.fa, Griffin.fa in this repo! 
 
 
-## Week 2: Introduction to Conda and Metagenomics
-•	Conda
+## Week 2: Introduction to Conda and Metagenomics  
+•	Conda  
 o	Read Emilie’s Introduction to Anaconda guide
 https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Anaconda.pdf 
 o	Watch the BVCN’s lesson on conda: Basic Unix - Introduction to Conda
