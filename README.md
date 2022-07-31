@@ -11,6 +11,7 @@ o	Lesson 3: https://youtu.be/dqXYziFQnm0
 o	Lesson 4: https://youtu.be/H7-ec9lBnAA  
 o	Lesson 5: https://youtu.be/QAxnGJEZ2_M  
 • Practice applying your newly-acquired Unix skills!  
+- Unix_practice, Unicorn.fa, Griffin.fa in this repo! 
 
 
 ## Week 2: Introduction to Conda and Metagenomics
