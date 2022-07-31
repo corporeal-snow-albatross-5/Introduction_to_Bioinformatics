@@ -21,12 +21,12 @@ https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%
 o	Watch the BVCN’s lesson on conda: Basic Unix - Introduction to Conda
 https://youtu.be/ukgogSsW7oI
 
-•	Metagenomics
-o	Sequence quality
-•	Read and follow along with the steps in this lesson from Environmental Bioinformatics: 
-https://github.com/2021-environmental-bioinformatics/Lab-Sequence_Quality
-•	Watch the BVCN’s lesson on sequence quality:
-https://youtu.be/EkmuvRQ2tWw
-•	Do the accompanying demo to the BVCN’s lesson on sequence quality: 
-https://youtu.be/7jRTyfdIXLo
+•	Metagenomics  
+o	Sequence quality  
+•	Read and follow along with the steps in this lesson from Environmental Bioinformatics:  
+https://github.com/2021-environmental-bioinformatics/Lab-Sequence_Quality  
+•	Watch the BVCN’s lesson on sequence quality:  
+https://youtu.be/EkmuvRQ2tWw  
+•	Do the accompanying demo to the BVCN’s lesson on sequence quality:   
+https://youtu.be/7jRTyfdIXLo  
 
