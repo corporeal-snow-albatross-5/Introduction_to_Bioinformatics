@@ -17,9 +17,9 @@ o	Lesson 5: https://youtu.be/QAxnGJEZ2_M
 ## Week 2: Introduction to Conda and Metagenomics  
 •	Conda  
 o	Read Emilie’s Introduction to Anaconda guide
-https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Anaconda.pdf 
-o	Watch the BVCN’s lesson on conda: Basic Unix - Introduction to Conda
-https://youtu.be/ukgogSsW7oI
+https://github.com/emilieskoog/Bioinformatics_Summer2021/blob/main/Introduction%20to%20Anaconda.pdf   
+o	Watch the BVCN’s lesson on conda: Basic Unix - Introduction to Conda  
+https://youtu.be/ukgogSsW7oI  
 
 •	Metagenomics  
 o	Sequence quality  
